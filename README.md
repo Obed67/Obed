@@ -1,15 +1,8 @@
 Bienvenue sur mon profil ! 👋 <br><br><br>
 À propos de moi <br><br>
-👨‍💻 Je suis un étudiant en génie logiciel passionné par le développement web et la conception graphique. Actuellement, je me spécialise en tant que Full-stack Web Developer, avec une expertise particulière dans le développement WebGL en utilisant le framework Laravel.
+👨‍💻 Je suis un étudiant en génie logiciel passionné par le développement web et la conception graphique. Actuellement, je me spécialise en tant que Full-stack, avec une expertise particulière dans le développement Web.
 
-Compétences
-Full-stack Web Developer : Maîtrise des technologies front-end et back-end pour créer des applications web complètes et performantes.
-
-WebGL Developer (Laravel) : Expérience avancée dans le développement d'applications WebGL en utilisant Laravel, combinant la puissance du côté serveur avec des fonctionnalités graphiques impressionnantes.
-
-Étudiant en génie logiciel : Actuellement en cours de formation en génie logiciel, j'acquiers constamment de nouvelles compétences et connaissances pour rester à jour avec les dernières tendances technologiques.
-
-Graphic Design : Compétences créatives étendues en conception graphique pour créer des interfaces utilisateur attrayantes et des expériences visuelles exceptionnelles.
+Obed est un développeur web full-stack engagé au sein de la communauté technologique. Il nourrit une passion pour l'intelligence artificielle, un domaine dans lequel il continue d'apprendre. Ses projets et contributions démontrent ses compétences en développement web et logiciel, et il participe activement à des défis de codage, partageant ses solutions et collaborant avec d'autres développeurs.
 
 
 Contact <br>

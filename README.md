@@ -9,7 +9,3 @@ Contact <br>
 <a href="https://www.linkedin.com/in/sonagnon-obed-agbohoun-a1b500262/">💼 LinkedIn</a>
 
 N'hésitez pas à me contacter pour discuter de collaborations, de projets passionnants ou simplement pour échanger des idées. Je suis ouvert aux opportunités et toujours enthousiaste à l'idée de contribuer à des projets innovants !
-
-
-Lien de l'appel vidéo : https://meet.google.com/mup-bnzc-gwi
-

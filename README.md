@@ -81,12 +81,6 @@ Feel free to reach out to me if you have any interesting projects, collaboration
 - **LinkedIn:** [Sonagnon Obed Agbohoun](https://www.linkedin.com/in/obedev)
 - **Twitter:** [@s_sonagnon](https://x.com/s_sonagnon?s=09)
 ```
-
-### Explications et améliorations :
-1. **Introduction claire** : Tu t'introduis brièvement avec ta spécialité.
-2. **Badges pour LinkedIn et Twitter** : Tu peux ajouter des badges pour rendre ton profil plus interactif.
-3. **Code avec TypeScript** : Le bloc de code qui utilise TypeScript rend le README plus original et peut refléter ta personnalité technique.
-4. **GitHub Stats** : En utilisant un générateur de stats (comme [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)), tu montres de manière visuelle tes contributions.
 5. **Projets** : Section détaillant tes projets principaux, avec des descriptions pour chaque projet.
 6. **Top Langs** : Affiche les langages principaux que tu utilises, en lien avec tes statistiques GitHub.
 7. **Contact** : Toujours finir par une invitation à se connecter (email, LinkedIn, Twitter).
